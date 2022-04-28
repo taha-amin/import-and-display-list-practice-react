@@ -1,0 +1,1 @@
+export const candies = ['twix', 'kitkat', 'snickers'];
