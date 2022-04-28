@@ -4,7 +4,7 @@ export const players = [
     age: 34,
     tags: {
       name: 'PSG',
-      stadium: 'Le Parc des Princes'
+      stadium: 'Le Parc des Princes',
     },
   },
 
@@ -13,7 +13,7 @@ export const players = [
     age: 37,
     tags: {
       name: 'Los Angeles Lakers',
-      stadium: 'crypto.com Arena'
+      stadium: 'crypto.com Arena',
     },
   },
 
@@ -22,16 +22,16 @@ export const players = [
     age: 44,
     tags: {
       name: 'Tampa Bay Buccaneers',
-      stadium: 'Raymond James Stadium'
+      stadium: 'Raymond James Stadium',
     },
   },
-    
+
   {
     name: 'Michael Jordan',
     age: 59,
     tags: {
       name: 'Chicago Bulls',
-      stadium: 'United Center'
+      stadium: 'United Center',
     },
   },
 ];
