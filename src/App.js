@@ -11,6 +11,9 @@ import { dogs } from './dogs-data';
 import PlayerList from './PlayerList';
 import { players } from './players-data';
 
+import ArtistsList from './ArtistsList';
+import { artists } from './artists-data.js';
+
 function App() {
   return (
     <div className="App">
@@ -24,6 +27,10 @@ function App() {
 
       <div className="players">
         <PlayerList players={players} />
+      </div>
+
+      <div className="artists">
+        <ArtistsList artists={artists} />
       </div>
     </div>
   );

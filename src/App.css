@@ -48,3 +48,7 @@
 .players {
   box-shadow: -9px -10px 15px 2px #000000;
 }
+
+.artists {
+  box-shadow: -6px 4px 15px 12px #000000;
+}
