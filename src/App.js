@@ -14,17 +14,16 @@ import { players } from './players-data';
 function App() {
   return (
     <div className="App">
-
-      <div className='candies'>
+      <div className="candies">
         <CandiesList candies={candies} />
       </div>
 
-      <div className='dogs'>
+      <div className="dogs">
         <DogList dogs={dogs} />
       </div>
 
-      <div className='players'>
-        
+      <div className="players">
+        <PlayerList players={players} />
       </div>
     </div>
   );
